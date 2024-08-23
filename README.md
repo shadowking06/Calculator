@@ -1,6 +1,8 @@
 # 📱 Calculator
 
-Welcome to the **Calculator** project! This simple calculator application is built using **HTML**, **CSS**, and **JavaScript**. It provides basic arithmetic functionalities and a user-friendly interface.
+Welcome to the **Calculator** project ! 
+
+This simple calculator application is built using **HTML**, **CSS**, and **JavaScript**. It provides basic arithmetic functionalities and a user-friendly interface.
 
 ## 🌟 Features
 
